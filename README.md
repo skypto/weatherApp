@@ -5,7 +5,8 @@ Super Awesome Weather App that can display the weather for any City.
 
 > This Web application provides the possibility to fetch live weather update from a 3rd party service using an API CALL and display on screen in the Web browser.
 
-
+###### DEMO:
+[![N|Solid](http://files.softicons.com/download/web-icons/vector-stylish-weather-icons-by-bartosz-kaszubowski/png/128x128/sun.rays.cloud.drizzle.png)](https://skypto.github.io/weatherApp/) 
 ===
 
 ## v4
