@@ -1,7 +1,16 @@
 # Weather App
+### Author: Skypto
 
 Super Awesome Weather App that can display the weather for any City 
 ===
+
+* v3
+* Http Request setup.
+* There is now a possibility to get weather information based on the user input
+* Usage of API from **openweathermap.org** (Account creation and API key required for this interation)
+* Creation of a new file **weather-data.js** which is a model for storage of the data collected from the API response.
+* Possible to fetch only relevant information from the response received from Openweathermap (ie. City, weather description and Temperature)
+* Creation of a getter and a setter in the **weather-data.js** file to help with the conversion from kelvin to degree celcius
 
 * v2
 * Contains data for fetching user inputs from the html page
