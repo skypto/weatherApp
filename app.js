@@ -18,7 +18,7 @@ function searchWeather() {
    //steps below are used for making a call to our Weather Api
    var http = new XMLHttpRequest;
    var apiKey = 'e53a82e48ef02470deb06699e9b7e8e1';
-   var url = 'http://api.openweathermap.org/data/2.5/weather?q='+cityName +'&units=metic&APPID='+apiKey;
+   var url = 'https://api.openweathermap.org/data/2.5/weather?q='+cityName +'&units=metic&APPID='+apiKey;
    var method = 'GET';
 
    http.open(method, url);

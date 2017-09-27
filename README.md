@@ -8,6 +8,14 @@ Super Awesome Weather App that can display the weather for any City.
 ###### DEMO:
 [![N|Solid](http://files.softicons.com/download/web-icons/vector-stylish-weather-icons-by-bartosz-kaszubowski/png/128x128/sun.rays.cloud.drizzle.png)](https://skypto.github.io/weatherApp/) 
 ===
+## v4.1.0
+* Update of XMLHttpRequest endpoint from unsecure to secure. (ie http to https)
+
+## v4.0.2
+* Update to Readme file with Demo link to webApp.
+
+## v4.0.1
+* Update to Readme file markdown format.
 
 ## v4
 * Possibility to display the processed API data in the Browser.
