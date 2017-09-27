@@ -1,16 +1,17 @@
-# Weather App
+# Weather App*
 ### Author: Skypto
 
-Super Awesome Weather App that can display the weather for any City 
-This Web application provides the possibility to fetch live weather update from a 3rd party service using an API CALL and display on screen in the Web browser.
+Super Awesome Weather App that can display the weather for any City.
+
+> This Web application provides the possibility to fetch live weather update from a 3rd party service using an API CALL and display on screen in the Web browser.
 
 
 ===
 
-* v4
+## v4
 * Possibility to display the processed API data in the Browser.
 
-* v3
+## v3
 * Http Request setup.
 * There is now a possibility to get weather information based on the user input
 * Usage of API from **openweathermap.org** (Account creation and API key required for this interation)
@@ -18,11 +19,11 @@ This Web application provides the possibility to fetch live weather update from 
 * Possible to fetch only relevant information from the response received from Openweathermap (ie. City, weather description and Temperature)
 * Creation of a getter and a setter in the **weather-data.js** file to help with the conversion from kelvin to degree celcius
 
-* v2
+## v2
 * Contains data for fetching user inputs from the html page
 * introduced a new file app.js which contains values that we fetch from the Dom for initialization
 * Data manipulation/logic is performed in app.js
 
-* v1
+## v1
 * Contains all the initial files required to setup our development.
 * Available files: **index.html**, **style.css** and **app.js**
