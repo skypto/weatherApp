@@ -2,7 +2,13 @@
 ### Author: Skypto
 
 Super Awesome Weather App that can display the weather for any City 
+This Web application provides the possibility to fetch live weather update from a 3rd party service using an API CALL and display on screen in the Web browser.
+
+
 ===
+
+* v4
+* Possibility to display the processed API data in the Browser.
 
 * v3
 * Http Request setup.

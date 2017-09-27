@@ -87,11 +87,24 @@ header h1 {
     display: none;
 }
 
-/* 
+
 footer{
-	padding: 20px;
+    text-align: center;
+    position: static;
+    bottom:0; 
+    padding: 50px;
+}
+
+/* temp{
+    padding: 20px;
 	margin-top: 20px;
 	color: #ffffff;
 	background-color: #e8491d;
 	text-align: center;
+    
+    text-align: center;
+    position: static;
+    bottom:0; 
+    padding: 50px;
+	
 } */
