@@ -22,7 +22,7 @@
 
 	  <!-- Script for sending on-click event to Segment  -->
 <script type="text/javascript">
-  analytics.trackLink(document.getElementById("click_button"), 'Search Button Clicked');
+  analytics.track(document.querySelector('#click_button'), 'Search Button Clicked');
  </script>
 
 	 
@@ -36,8 +36,9 @@
             <div id="search">
                 <label for="city">City Name</label>
                 <input type="text" id="city">
-                 <button type="button"><a id='click_button'>Show Weather!</a></button> 
-		   <!-- <a id='click_button'><button type="button">Show Weather!</button></a> -->
+                 <!-- <button type="button"><a id='click_button'>Show Weather!</a></button> 
+		   <a id='click_button'><button type="button">Show Weather!</button></a> -->
+		    <button id='click_button' type="button">Show Weather!</button> 
             </div>
             <div id="load">Loading...</div>
             <div id="weather">
